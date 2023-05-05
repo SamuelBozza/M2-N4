@@ -1,0 +1,11 @@
+nav {
+  height: 50px;
+  background-color: #dc3545;
+  color: white;
+}
+nav a {
+  font-size: 25px;
+  text-decoration: solid;
+  padding: 5px;
+  color: #ffffff;
+}
